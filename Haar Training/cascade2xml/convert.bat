@@ -1,1 +1,1 @@
-haarconv.exe data myfacedetector.xml 24 24
+haarconv.exe data alpd.xml 24 24
